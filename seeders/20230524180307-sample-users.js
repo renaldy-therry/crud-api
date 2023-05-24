@@ -21,6 +21,15 @@ module.exports = {
         email: "kobe@mamba.com",
         createdAt: new Date(),
         updatedAt: new Date(),
+        password : "sxyz213@",
+      },
+      {
+        firstName: "John",
+        lastName: "Bryant",
+        email: "john@mamba.com",
+        createdAt: new Date(),
+        updatedAt: new Date(),
+        password : "12345",
       },
     ],
     {}
